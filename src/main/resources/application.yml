@@ -1,0 +1,15 @@
+server:
+  port: 8580
+  tomcat:
+    accesslog:
+      enabled: true
+
+management:
+  endpoints:
+    web:
+      base-path: /get-out
+  endpoint:
+    health:
+      enabled: true
+    info:
+      enabled: true
