@@ -14,6 +14,7 @@
     <groupId>monolit.app</groupId>
     <artifactId>monolit-app</artifactId>
     <version>${app.version}</version>
+    <name>monolit-app</name>
 
     <properties>
         <app.version>0.0.1</app.version>
